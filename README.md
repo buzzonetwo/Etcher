@@ -1,7 +1,7 @@
-#About the Sketcher
+# About the Sketcher
 I created a simple line sketcher simulator in spring 2017 as part of my final project in a computer science class at Head-Royce School. It utilizes the Java Swing library in order to offer some customization options, while the JOGL is primarily used to handle the canvas drawing. I had never used JOGL before so it was an interesting challenge to learn how to properly utilize its features.
 
-#Sketcher Mechanics
+# Sketcher Mechanics
 
 WASD to move the pointer
 QE to spin
